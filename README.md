@@ -4,4 +4,5 @@ ejemplos y cacharreos varios del libro python-machine-learning-book-3rd-edition 
 
 ch02 -> Perceptron & Adaline
 
-ch03 -> 
+ch03 -> Perceptron con scikit-learn.
+        Regresion
